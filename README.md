@@ -1,6 +1,6 @@
 # Sudoku Solver using OpenCV
 
-![Sudoku Solver](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sudoku_Puzzle_by_L2G-20050714.svg/800px-Sudoku_Puzzle_by_L2G-20050714.svg.png)
+![Sudoku Solver]([https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sudoku_Puzzle_by_L2G-20050714.svg/800px-Sudoku_Puzzle_by_L2G-20050714.svg.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAbt7Ydo12quAaUSPisyf5AMfwE8PWUoGsFQ&s))
 
 ## 📌 Overview
 This project is a **Sudoku Solver** that uses **OpenCV** for image processing and **Python** for solving the puzzle using a backtracking algorithm. The program detects a Sudoku grid from an image, extracts the numbers, solves the puzzle, and overlays the solution back onto the image.
